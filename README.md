@@ -1,4 +1,3 @@
-# Java-ATM-System-
 # 🏦 Java ATM System (Console-Based)
 
 A simple, interactive Automated Teller Machine (ATM) simulation system built using **Java**. This project demonstrates core Object-Oriented Programming (OOP) concepts like encapsulation, classes, and objects.
