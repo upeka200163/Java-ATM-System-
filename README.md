@@ -17,17 +17,13 @@ A simple, interactive Automated Teller Machine (ATM) simulation system built usi
 ## 🚀 How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Java-ATM-System.git](https://github.com/YOUR_USERNAME/Java-ATM-System.git)
+    git clone: https://github.com/upeka200163/Java-ATM-System-.git
     ```
-2.  **Open in IDE:** Open the project folder in NetBeans, IntelliJ, or Eclipse.
-3.  **Compile & Run:** Locate `ATMMachineJava.java`, right-click, and select **Run File**.
-4.  **Interaction:** * Click inside the Output window.
-    * Enter the PIN `1234`.
-    * Select your transaction from the menu.
+
 
 ## 📂 Project Structure
 * `ATMMachineJava.java`: The main entry point and user interface logic.
 * `Account.java`: Contains account data and business logic (Deposit/Withdrawal).
 
 ---
-Developed with ❤️ using Java.
+
